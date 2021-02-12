@@ -1,0 +1,4 @@
+06845599	03754979	_member_of_domain_usage
+00789448	01062739	_verb_group
+10217831	10682169	_hyponym
+08860123	05688486	_member_of_domain_region
