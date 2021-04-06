@@ -1,4 +1,4 @@
-# Translating_Embedding_for_Modelling_Multi-Relational_Data
+# Translating Embedding for Modelling Multi-Relational Data
 ![](image/architecture.png)
 
 ## Requirements
