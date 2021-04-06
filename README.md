@@ -10,6 +10,6 @@
 
 ## To run the code
    1. Set the file paths for entity2id, relation2id, train and test data files and also to save/load the model.
-   2. Run the TransE file with python3.
+   2. Run TransE file with python3.
 
 
